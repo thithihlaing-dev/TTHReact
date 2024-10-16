@@ -1,8 +1,8 @@
 import React from 'react'
-
+import ListGroup from './Component/ListGroup'
 const App = () => {
   return (
-    <div className="p-10 bg-black text-white">Hello World</div>
+    <ListGroup></ListGroup>
   )
 }
 
